@@ -13,7 +13,7 @@ Notes
 
 Usage
 -----
-* Pull repository
+* Clone repository
 * Start WebMatrix
 * Choose "open from folder"
 * Do NOT install PHP if it says that PHP was detected
