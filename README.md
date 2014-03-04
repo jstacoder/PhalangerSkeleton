@@ -11,10 +11,10 @@ Notes
 * If you want to use an older version of Phalanger please replace the binaries in the phalanger directory and correct the version information for each assembly in the web.config and phalanger.config.
 * The MySQL library is using version 3.0.0.0 (with an assemblyBinding to fix the issue with Phalanger version 4.0.0.0)
 
-Usage
------
+Usage (with WebMatrix)
+----------------------
 * Clone repository
-* Start WebMatrix
-* Choose "open from folder"
-* Do NOT install PHP if it says that PHP was detected
+* Launch [WebMatrix](http://www.microsoft.com/web/webmatrix/)
+* Choose "open from folder" and open the previously cloned folder
+* Do NOT install PHP when it says that PHP was detected
 * Run it
